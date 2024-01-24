@@ -1,0 +1,15 @@
+name: atoc5860env2023clean
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - anaconda
+  - python=3.10
+  - jupyter
+  - cartopy
+  - pydap
+  - scipy
+  - netcdf4
+  - h5netcdf
+  - cftime
+prefix: /opt/anaconda3/envs/atoc5860env2023clean
