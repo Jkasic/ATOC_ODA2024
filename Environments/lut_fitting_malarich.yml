@@ -1,0 +1,9 @@
+name: spectra-fit
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - allantools=2019.09
+  - lmfit=0.9.12
+  - numpy>=1.21.0
+  - pandas=1.2.5

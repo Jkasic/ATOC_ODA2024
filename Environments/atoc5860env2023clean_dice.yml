@@ -12,4 +12,5 @@ dependencies:
   - netcdf4
   - h5netcdf
   - cftime
+  - numpy=1.19
 prefix: /opt/anaconda3/envs/atoc5860env2023clean
